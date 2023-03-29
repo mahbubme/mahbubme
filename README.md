@@ -18,6 +18,6 @@ My usual nickname is Rabbi.
 
 ### Imprint:
 
-Mahbubur Rahman
-Berlin, Germany
+Mahbubur Rahman<br>
+Berlin, Germany<br>
 Contact e-mail: mail@mahbub.me
