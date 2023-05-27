@@ -1,6 +1,6 @@
 ## Hey - I'm [Mahbubur Rahman](https://mahbub.me/?utm_source=github&utm_medium=mahbubme) :wave:
 
-I'm a web engineer, open-source contributor and an IRONMAN from Berlin, Germany. I have been working as a WordPress Engineer for 10 years.
+I'm a web engineer, open-source contributor and an IRONMAN. I have been working as a WordPress Engineer for 10 years.
 
 Since 2013, I have been heavily involved with WordPress plugin development, mostly for my previous employers such as rtCamp, weDevs, JoomShaper.
 
@@ -12,12 +12,10 @@ If you want to contact me, you can reach me via one of the following communicati
 
 - send me an email via [contact form](https://mahbub.me/contact/?utm_source=github&utm_medium=mahbubme)
 - send me a message on [Github](https://github.com/mahbubme/)
-- reach out to me on [Linkedin](https://www.linkedin.com/in/mahbubme/)
 
 My usual nickname is Rabbi.
 
 ### Imprint:
 
 Mahbubur Rahman<br>
-Berlin, Germany<br>
 Contact e-mail: mail@mahbub.me
