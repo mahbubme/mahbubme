@@ -6,6 +6,7 @@ Since 2013, I have been heavily involved with WordPress plugin development, most
 
 In late 2019, I joined Awesome Motive's MonsterInsights (#1 Google Analytics Plugin for WordPress with over 3 million active installs) team as a developer, to add new features and make it more EASY and POWERFUL for the users.
 
+
 ### My area of expertise:
 
 <div>
