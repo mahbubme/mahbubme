@@ -39,7 +39,7 @@ My usual nickname is Rabbi.
 Mahbubur Rahman<br>
 Contact e-mail: mail@mahbub.me
 
-### :fire: My Stats :
+### My Stats:
 
 ![mahbubme's Stats](https://github-readme-stats.vercel.app/api?username=mahbubme&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![mahbubme's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahbubme&theme=vue-dark&hide_border=true)
