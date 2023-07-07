@@ -24,6 +24,7 @@ In late 2019, I joined Awesome Motive's MonsterInsights (#1 Google Analytics Plu
 </div>
 
 
+
 Outside the web, WordPress and my work, I’m a runner, swimmer, cyclist, and traveler.
 
 If you want to contact me, you can reach me via one of the following communication channels:
