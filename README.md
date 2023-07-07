@@ -38,5 +38,7 @@ Mahbubur Rahman<br>
 Contact e-mail: mail@mahbub.me
 
 ### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=mahbubme&show_icons=true&theme=radical&count_private=true)](https://git.io/streak-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahbubme&theme=dark&background=000000)](https://git.io/streak-stats)
 
