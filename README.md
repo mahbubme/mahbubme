@@ -39,6 +39,7 @@ Contact e-mail: mail@mahbub.me
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=mahbubme&show_icons=true&theme=radical&count_private=true)](https://git.io/streak-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahbubme&theme=dark&background=000000)](https://git.io/streak-stats)
+![mahbubme's Stats](https://github-readme-stats.vercel.app/api?username=mahbubme&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![mahbubme's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahbubme&theme=vue-dark&hide_border=true)
+![mahbubme's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbubme&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
