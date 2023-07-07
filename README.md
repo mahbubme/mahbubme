@@ -23,6 +23,8 @@ In late 2019, I joined Awesome Motive's MonsterInsights (#1 Google Analytics Plu
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div><br>
 
+![mahbubme's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbubme&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 Outside the web, WordPress and my work, I’m a runner, swimmer, cyclist, and traveler.
 
 If you want to contact me, you can reach me via one of the following communication channels:
@@ -41,5 +43,4 @@ Contact e-mail: mail@mahbub.me
 
 ![mahbubme's Stats](https://github-readme-stats.vercel.app/api?username=mahbubme&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![mahbubme's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahbubme&theme=vue-dark&hide_border=true)
-![mahbubme's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbubme&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
