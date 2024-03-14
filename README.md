@@ -1,11 +1,6 @@
 ## Hey - I'm [Mahbubur Rahman](https://mahbub.me/?utm_source=github&utm_medium=mahbubme) :wave:
 
-I'm a web engineer, open-source contributor and an IRONMAN. I have been working as a WordPress Engineer for 10 years.
-
-Since 2013, I have been heavily involved with WordPress plugin development, mostly for my previous employers such as rtCamp, weDevs, JoomShaper.
-
-In late 2019, I joined Awesome Motive's MonsterInsights (#1 Google Analytics Plugin for WordPress with over 3 million active installs) team as a developer, to add new features and make it more EASY and POWERFUL for the users.
-
+I am Mahbubur Rahman, a web engineer and open-source contributor with a decade of experience as a Full Stack Developer with Frontend Focus. As an accomplished professional, I possess strong communication skills, enabling me to effectively collaborate with diverse teams, convey technical concepts to non-technical stakeholders, and contribute positively to project success.
 
 ### My area of expertise:
 
@@ -27,7 +22,7 @@ In late 2019, I joined Awesome Motive's MonsterInsights (#1 Google Analytics Plu
 
 ![mahbubme's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbubme&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-Outside the web, WordPress and my work, I’m a runner, swimmer, cyclist, and traveler.
+Outside the web, and my work I’m a triathlete.
 
 If you want to contact me, you can reach me via one of the following communication channels:
 
