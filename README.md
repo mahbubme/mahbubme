@@ -29,13 +29,6 @@ If you want to contact me, you can reach me via one of the following communicati
 - send me an email to mail@mahbub.me
 - send me a message on [Github](https://github.com/mahbubme/)
 
-My usual nickname is Rabbi.
-
-### Imprint:
-
-Mahbubur Rahman<br>
-Contact e-mail: mail@mahbub.me
-
 ### My Stats:
 
 ![mahbubme's Stats](https://github-readme-stats.vercel.app/api?username=mahbubme&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
