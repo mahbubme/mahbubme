@@ -26,7 +26,6 @@ Outside the web, and my work I’m a triathlete.
 
 If you want to contact me, you can reach me via one of the following communication channels:
 
-- send me an email to mail@mahbub.me
 - send me a message on [Github](https://github.com/mahbubme/)
 
 ### My Stats:
