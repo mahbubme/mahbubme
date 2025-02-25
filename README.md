@@ -27,9 +27,4 @@ Outside the web, and my work I’m a triathlete.
 If you want to contact me, you can reach me via one of the following communication channels:
 
 - send me a message on [Github](https://github.com/mahbubme/)
-
-### My Stats:
-
-![mahbubme's Stats](https://github-readme-stats.vercel.app/api?username=mahbubme&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![mahbubme's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahbubme&theme=vue-dark&hide_border=true)
-
+  
