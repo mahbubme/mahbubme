@@ -1,6 +1,6 @@
-## Hey - I'm [Mahbubur Rahman](https://mahbub.me/?utm_source=github&utm_medium=mahbubme) :wave:
+## Hey :wave:
 
-I am Mahbubur Rahman, a web engineer and open-source contributor with a decade of experience as a Full Stack Developer with Frontend Focus. As an accomplished professional, I possess strong communication skills, enabling me to effectively collaborate with diverse teams, convey technical concepts to non-technical stakeholders, and contribute positively to project success.
+I'm Mahbubur Rahman, a web engineer and open-source contributor who's been building and improving web applications for quite some time, mainly working across the full stack. As an accomplished professional, I possess strong communication skills, enabling me to effectively collaborate with diverse teams, convey technical concepts to non-technical stakeholders, and contribute positively to project success.
 
 ### My area of expertise:
 
@@ -24,7 +24,5 @@ I am Mahbubur Rahman, a web engineer and open-source contributor with a decade o
 
 Outside the web, and my work I’m a triathlete.
 
-If you want to contact me, you can reach me via one of the following communication channels:
-
-- send me a message on [LinkedIn](https://www.linkedin.com/in/mahbubme/)
+The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/mahbubme/) – I’d be happy to connect!
   
