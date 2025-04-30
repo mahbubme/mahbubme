@@ -2,6 +2,8 @@
 
 I'm Mahbubur Rahman, a web engineer and open-source contributor who's been building and improving web applications for quite some time, mainly working across the full stack. As an accomplished professional, I possess strong communication skills, enabling me to effectively collaborate with diverse teams, convey technical concepts to non-technical stakeholders, and contribute positively to project success.
 
+Outside of work and the web, I'm passionate about triathlon and train as a triathlete.
+
 ### My area of expertise:
 
 <div>
@@ -20,8 +22,6 @@ I'm Mahbubur Rahman, a web engineer and open-source contributor who's been build
 </div><br>
 
 ![mahbubme's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbubme&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-Outside the web, and my work I’m a triathlete.
 
 The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/mahbubme/) – I’d be happy to connect!
   
