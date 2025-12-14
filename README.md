@@ -2,8 +2,6 @@
 
 I'm Mahbubur Rahman, a web engineer and open-source contributor who's been building and improving web applications for quite some time, mainly working across the full stack. As an accomplished professional, I possess strong communication skills, enabling me to effectively collaborate with diverse teams, convey technical concepts to non-technical stakeholders, and contribute positively to project success.
 
-Outside of work and the web, I'm passionate about triathlon and train as a triathlete.
-
 ### My area of expertise:
 
 <div>
